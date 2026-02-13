@@ -1,0 +1,5 @@
+{
+  "name": "NovaWallet",
+  "description": "A secure, modern digital wallet application featuring Invictus Pay integration, real-time ledger updates via Firebase, and strict security practices.",
+  "requestFramePermissions": []
+}
